@@ -33,7 +33,7 @@ This dashboard focuses on credit card transaction data, providing insights into 
 - **Revenue by Customer Job** (Businessman, Self-employed, White-collar, etc.)
 - **Revenue by Customer Education** (Graduate, High School, etc.)
 
-![Credit Card Transaction Report](https://github.com/shaun-mia/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Transction.png)
+![Credit Card Transaction Report](https://github.com/gvenkatsai1919/Credit-card-analysis--Power-BI/blob/main/Transaction%20Report.jpg)
 
 ### 4. Credit Card Customer Report 🧑‍💼
 This dashboard provides a customer-centric view, analyzing customer behavior, demographics, and revenue generation based on different attributes like age, income, and education.
@@ -51,7 +51,7 @@ This dashboard provides a customer-centric view, analyzing customer behavior, de
 - **Revenue by Education Level** (Graduate, High School, Post-Graduate, etc.)
 - **Revenue by Income Group** (Low, Medium, High income brackets)
 
-![Credit Card Customer Report](https://github.com/shaun-mia/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Customer.png)
+![Credit Card Customer Report](https://github.com/gvenkatsai1919/Credit-card-analysis--Power-BI/blob/main/Customer%20Report.jpg)
 
 ## Technologies Used 💻
 - **SQL** for database creation and real-time data updates.
